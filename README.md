@@ -1,4 +1,4 @@
-# open_science_fellowship_project
+# open science fellowship project
 This is the repo for the project I'm working during my time as a open science fellow (https://meta.wikimedia.org/wiki/Wikimedia_Deutschland/Open_Science_Fellows_Program). 
 
 The project itself is called ALPACA - Automated Labelling and Parcellation of Auditory Cortex Areas, for a brief description you can check my original submission for the fellow program here: https://de.wikiversity.org/wiki/Wikiversity:Fellow-Programm_Freies_Wissen/Einreichungen/ALPACA_–_Automated_Labelling_and_Parcellation_of_Auditory_Cortex_Areas (currently only in German, but I'll upload an english version soon). 
