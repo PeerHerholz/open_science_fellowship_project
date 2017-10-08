@@ -6,4 +6,4 @@ The project itself is called ALPACA - Automated Labelling and Parcellation of Au
 It'll contain information about all project parts, from ethics committee submissions to finished code. Furthermore you can
 find an open lab notebook documenting and tracking the progress as well as changes on a weekly basis.
 
-Please feel free to contact me wrt any question or idea via mail (herholz dot peer at gmail dot com), twitter (@peerherholz) or the brainhack slack team (@peerherholz).
+Please feel free to contact me wrt any question or idea via mail (herholz dot peer at gmail dot com), twitter ([@peerherholz](https://twitter.com/peerherholz?lang=eng)) or the brainhack slack team (@peerherholz).
