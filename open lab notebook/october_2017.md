@@ -1,0 +1,40 @@
+# October, 9th - 15th, 2017
+## this week
+
+- checked ethic committee requirements 
+- reread journal and overview articles
+- google hangout with [Kevin Sitek](https://github.com/sitek) and [Omer Faruk Gulban](https://github.com/ofgulban),
+  both collaborators, to discuss study stimuli, design, possible analyses --> Faruk might be able to provide the stimuli
+  and experiment script which he used in [his previous studies wrt the auditory cortex and pathway](https://figshare.com/authors/Omer_Faruk_Gulban/3931136)
+  
+  
+## next week
+  
+ - generate tone burst stimuli
+ - start writing ethic proposal
+ - check equipment at the scanner related to auditory research
+
+# Ocotber, 16th - 22th, 2017
+## this week
+- talk with different at the department about posting and documenting the ethic proposal process <br /> 
+  &rarr; doesn't seem to work out at all, as all information wrt the proposal are considered "highly confidential" <br /> 
+  &rarr; currently checking options, e.g. how much it has to "change" till I'd be allowed to post and if I could post it<br />
+  &nbsp; &nbsp;&nbsp; after the project is completed
+- auditory research equipment at the scanner looks good and seems to work properly, I'll post some pictures of the setup soon
+- spend some rereading journal and overview articles especially wrt stimuli and experimental design <br />
+  &rarr; here's the list of articles you maybe also find useful and here's the open knowledge map again <br />
+  &rarr; I'll soon post a jupyter notebook containing information about and showing the process of <br /> 
+  &nbsp; &nbsp;&nbsp; generating tone bursts here <br />
+  &rarr; checking best possible experimental design based on previous studies using <br />
+  &nbsp; &nbsp;&nbsp;[NeuroPowerTools, more precisely Neurodesign](http://neuropowertools.org/design/start/), make sure to 
+                      also check their github repo [here](https://github.com/neuropower/neurodesign) and the <br />
+  &nbsp;&nbsp;&nbsp;  [preprint describing this amazing toolbox](https://www.biorxiv.org/content/early/2017/03/23/119594)<br /> &rarr; when it's done, I'll post the generated code and results here
+
+## next week
+
+# Ocotber, 23th - 29th, 2017
+
+## this week
+
+## next week
+
