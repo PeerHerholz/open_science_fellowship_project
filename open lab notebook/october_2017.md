@@ -22,13 +22,17 @@
   &nbsp; &nbsp;&nbsp; after the project is completed
 - auditory research equipment at the scanner looks good and seems to work properly, I'll post some pictures of the setup soon
 - spend some rereading journal and overview articles especially wrt stimuli and experimental design <br />
-  &rarr; here's the list of articles you maybe also find useful and here's the open knowledge map again <br />
+  &rarr; [here's](https://github.com/PeerHerholz/open_science_fellowship_project/blob/master/open%20lab%20notebook/articles_list_auditory_cortex.md) the list of articles you maybe also find useful and [here's](https://openknowledgemaps.org/map/530b543e87c83d2de62f331f04625d0a) the open knowledge map again <br />
   &rarr; I'll soon post a jupyter notebook containing information about and showing the process of <br /> 
   &nbsp; &nbsp;&nbsp; generating tone bursts here <br />
   &rarr; checking best possible experimental design based on previous studies using <br />
   &nbsp; &nbsp;&nbsp;[NeuroPowerTools, more precisely Neurodesign](http://neuropowertools.org/design/start/), make sure to 
                       also check their github repo [here](https://github.com/neuropower/neurodesign) and the <br />
-  &nbsp;&nbsp;&nbsp;  [preprint describing this amazing toolbox](https://www.biorxiv.org/content/early/2017/03/23/119594)<br /> &rarr; when it's done, I'll post the generated code and results here
+  &nbsp;&nbsp;&nbsp;  [preprint describing this amazing toolbox](https://www.biorxiv.org/content/early/2017/03/23/119594)<br /> &rarr; when it's done, I'll post the generated code and results here  <br />
+  &rarr; introduced the structure I use to document the project here to students writing their thesis under <br />
+  &nbsp;&nbsp;&nbsp; my supvervision and other folks in our gang, check their repos e.g. [here](https://github.com/MirjamSchneider/MSc_thesis_MirjamSchneider) or [here](https://github.com/Brinkmak/BSc_thesis_KlaraBrinkmann)  <br />
+  &rarr; further planning of the "open /reproducible neuroscience using python" workshop, which will take place <br />
+  &nbsp;&nbsp;&nbsp; next March, 9th-11th
 
 ## next week
 
