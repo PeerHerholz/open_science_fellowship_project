@@ -21,7 +21,7 @@
   &rarr; currently checking options, e.g. how much it has to "change" till I'd be allowed to post and if I could post it<br />
   &nbsp; &nbsp;&nbsp; after the project is completed
 - auditory research equipment at the scanner looks good and seems to work properly, I'll post some pictures of the setup soon
-- spend some rereading journal and overview articles especially wrt stimuli and experimental design <br />
+- spend some time rereading original study and overview articles especially wrt stimuli and experimental design <br />
   &rarr; [here's](https://github.com/PeerHerholz/open_science_fellowship_project/blob/master/open%20lab%20notebook/articles_list_auditory_cortex.md) the list of articles you maybe also find useful and [here's](https://openknowledgemaps.org/map/530b543e87c83d2de62f331f04625d0a) the open knowledge map again <br />
   &rarr; I'll soon post a jupyter notebook containing information about and showing the process of <br /> 
   &nbsp; &nbsp;&nbsp; generating tone bursts here <br />
@@ -35,6 +35,9 @@
   &nbsp;&nbsp;&nbsp; next March, 9th-11th
 
 ## next week
+- further checking of ethic proposal related problems
+- check availability of certain scanner sequences to continue paradigm planning
+- make list of plannend analysis and possible problems
 
 # Ocotber, 23th - 29th, 2017
 
