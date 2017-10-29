@@ -37,11 +37,22 @@
 ## next week
 - further checking of ethic proposal related problems
 - check availability of certain scanner sequences to continue paradigm planning
-- make list of plannend analysis and possible problems
+- make list of planned analysis and possible problems
 
 # Ocotber, 23th - 29th, 2017
 
 ## this week
 
+- unfortunately nothing new wrt the ethic proposal, still searching for someone who can / is willing to provide some information
+- checked if we can use scanner sequences similar to [De Martino et al. (2014)](http://onlinelibrary.wiley.com/doi/10.1002/mrm.25408/abstract;jsessionid=6C1E11769F506283938B1D9E2B06A20A.f02t02) and [Perrachoine and Ghosh (2013)](https://doi.org/10.3389/fnins.2013.00055) &rarr; looks good so far, but nothing precise as
+I'll be the first one to use such sequences at our institute
+- I'll post the list of planned analysis and possible problems within the next few days, as I'm still reading stuff, especially about encoding models (check this nice [overview article](https://doi.org/10.1016/j.jmp.2016.06.009))
+&rarr; most articles I read used the [NSL toolbox for matlab](http://www.isr.umd.edu/Labs/NSL/Downloads.html) to build encoding models and as I'm trying to avoid commercial software (talking about matlab) I'm currently searching for alternatives (in python)
+- build an initial draft of the hp for the "open/reproducible neuroscience using python" workshop using [github pages](https://pages.github.com), you can check the repo [here](https://github.com/PeerHerholz/openreproneuro2018marburg.github.io)
+
 ## next week
+
+- finish the workshop hp
+- continue the stimuli & paradigm ipynb
+- start programming experiment
 
