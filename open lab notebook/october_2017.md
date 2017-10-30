@@ -55,4 +55,5 @@ I'll be the first one to use such sequences at our institute
 - finish the workshop hp
 - continue the stimuli & paradigm ipynb
 - start programming experiment
+- start setting up server system
 
