@@ -1,4 +1,4 @@
-# October, 9th - 15th, 2017
+# October 9th - 15th, 2017
 ## this week
 
 - checked ethic committee requirements 
@@ -14,7 +14,7 @@
  - start writing ethic proposal
  - check equipment at the scanner related to auditory research
 
-# Ocotber, 16th - 22th, 2017
+# October 16th - 22th, 2017
 ## this week
 - talk with different at the department about posting and documenting the ethic proposal process <br /> 
   &rarr; doesn't seem to work out at all, as all information wrt the proposal are considered "highly confidential" <br /> 
@@ -39,7 +39,7 @@
 - check availability of certain scanner sequences to continue paradigm planning
 - make list of planned analysis and possible problems
 
-# Ocotber, 23th - 29th, 2017
+# October 23th - 29th, 2017
 
 ## this week
 
