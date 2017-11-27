@@ -57,9 +57,17 @@
 # November 20th - 26th, 2017
 
 ## this week
-
+- started working on a anatomical processing pipeline in [nipype](http://nipype.readthedocs.io/en/latest/#)
+  - it'll mainly include stuff from [FreeSurfer](https://surfer.nmr.mgh.harvard.edu), [ANTs](http://stnava.github.io/ANTs/)
+- a lot of conversations and discussions regarding our [open science initiative](https://openscienceinitiativeuniversitymarburg.github.io/osium.github.io/)
+- cloned the current server setup and copied it to another one, so that folks can work on two sun server systems running
+  ubuntu server
+  - as the current setup is limited to 16 cores, I'll upgrade the whole thingy to a system with 64 cores in mid December  
 
 ## next week
+- more work on anatomical processing pipeline
+- create user accounts for the folks and let them run some tests
+- meetings with the psychology & linguistics department regarding the open science initiative
 
 # November 27th - Dezember 3rd, 2017
 
