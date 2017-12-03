@@ -72,6 +72,13 @@
 # November 27th - Dezember 3rd, 2017
 
 ## this week
-
+- continued work on anatomical processing pipeline, the [volume](https://brainder.org/2012/09/23/the-nifti-file-format/) stream works fine
+   - while working on the anatomical processing pipeline, I found a possible bug in [nipype's](http://nipype.readthedocs.io/en/latest/) [label2label](https://surfer.nmr.mgh.harvard.edu/fswiki/mri_label2label) [interface](http://nipype.readthedocs.io/en/0.12.0/interfaces/generated/nipype.interfaces.freesurfer.model.html#label2label) <br/>
+   &rarr; I asked about it on [neurostars.org](https://neurostars.org/t/possible-bug-nipype-freesurfer-label2label/991) and opened an issue on [the nipype github page](https://github.com/nipy/nipype/issues/2310)
+- created additional user profiles for some colleagues and started some tests (e.g. [mindboggle](http://www.mindboggle.info) outside and inside a docker container) that are still running/being evaluated 
+- unfortunately didn't manage to arrange a meeting with the psychology & linguistics department 
 
 ## next week
+- try to find a workaround regarding the pipeline errors
+- include more anatomical masks from different atlases within the anatomical processing pipeline
+- meetings with psychology & linguistics department, additionally with the mathematics / computer science department
