@@ -7,3 +7,7 @@ It'll contain information about all project parts, from [ethics committee submis
 find an [open lab notebook](https://github.com/PeerHerholz/open_science_fellowship_project/tree/master/open%20lab%20notebook) documenting and tracking the progress as well as changes on a weekly basis.
 
 Please feel free to contact me wrt any question or idea via mail (herholz dot peer at gmail dot com), twitter ([@peerherholz](https://twitter.com/peerherholz?lang=eng)), the brainhack slack team (@peerherholz) or the project channel (#alpaca). 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/PeerHerholz/open_science_fellowship_project/blob/master/resources/alpaca_logo.png" alt="alpaca logo" width="250" height="250" border="10">
+
+The ALPACA project logo was made using an amazing freely available alpaca picture from [Max Pixel](http://maxpixel.freegreatpicture.com/Pako-Mammal-Wool-Vicugna-Pacos-Alpaca-Wool-Alpaca-814953) and (cytoarchitectonic) auditory cortex ROIs from [Morosan et al.](https://www.ncbi.nlm.nih.gov/pubmed/11305897) overlaid on the right hemisphere of [freesurfer's fsaverage brain](https://surfer.nmr.mgh.harvard.edu). No alpacas were harmed during the creation of this logo.  
