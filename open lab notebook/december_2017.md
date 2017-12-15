@@ -16,10 +16,19 @@
 
 # December 11th - 17th, 2017
 ## this week
-
+- didn't manage to finish the anatomical worklfow, but still made some progress
+  - currently working on combining all subworkflows into one
+- finally put the website for the ["open & reproducible neuroscience using python" workshop](https://openreproneuro2018marburg.github.io) online
+  - this whole thing is part of my fellowship project, as, besides the work on the auditory cortex, I also
+    wanted to foster open science in our department/institute and the whole university
+  - the workshop is a satellite event of the [60th teap](https://www.teap.de/index.php/teap2018/marburg)
+  - it will pass into the first Marburg Brainhack which will take during the conference
+- further planning of collaborations on open science
 
 ## next week
-
+- once again: finish the anatomical processing pipeline
+- upload a jupyter notebook describing how to get different freely available atlases
+  and how extract and save certain ROIs 
 
 # December 18th - 24th, 2017
 
