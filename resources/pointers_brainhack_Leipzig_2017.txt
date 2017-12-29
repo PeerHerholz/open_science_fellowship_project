@@ -1,0 +1,46 @@
+pointers from the brainhack held in Leipzig (18th/19th December 2017)
+
+--> presented by Satra (https://github.com/satra)
+
+--> a cool collection of interesting tools and things to explore wrt to 
+    neuroscience/neuroinformatics/open science
+
+https://cosmosmagazine.com/biology/micro-monsters-up-close-and-personal
+
+https://data-archive.nimh.nih.gov/abcd/query
+
+https://osf.io/
+
+http://brainbox.pasteur.fr/project/meningioma
+
+http://www.datalad.org/
+
+http://datasets.datalad.org/
+
+https://datproject.org/
+
+https://en.wikipedia.org/wiki/%C3%8Dslendingab%C3%B3k_(genealogical_database)
+
+http://www.brainscope.nl/brainscope
+
+https://neuroglancer.humanbrainproject.org/#!{'layers':{'%20grey%20value:%20':{'type':'image'_'source':'precomputed://https://neuroglancer.humanbrainproject.org/precomputed/BigBrainRelease.2015/8bit'_'transform':[[1_0_0_-70666600]_[0_1_0_-70000000]_[0_0_1_-58777700]_[0_0_0_1]]}_'%20tissue%20type:%20':{'type':'segmentation'_'source':'precomputed://https://neuroglancer.humanbrainproject.org/precomputed/BigBrainRelease.2015/classif'_'selectedAlpha':0_'segments':['0'_'100']_'transform':[[1_0_0_-70666600]_[0_1_0_-72910000]_[0_0_1_-58777700]_[0_0_0_1]]}}_'navigation':{'pose':{'position':{'voxelSize':[21166.666015625_20000_21166.666015625]_'voxelCoordinates':[470.56646728515625_-547.2803344726562_-773.6800537109375]}_'orientation':[0.06851303577423096_0.020787177607417107_0.12830466032028198_0.9891470670700073]}_'zoomFactor':75923.94657018449}_'perspectiveOrientation':[0.3140767216682434_-0.7418519854545593_0.4988985061645508_-0.3195493221282959]_'perspectiveZoom':1922235.5293810747}
+
+https://neuroglancer-demo.appspot.com/#!{'layers':{'image':{'type':'image'_'source':'precomputed://gs://neuroglancer-public-data/flyem_fib-25/image'}_'ground-truth':{'type':'segmentation'_'source':'precomputed://gs://neuroglancer-public-data/flyem_fib-25/ground_truth'_'segments':['158571'_'21894'_'22060'_'24436'_'2515']}}_'navigation':{'pose':{'position':{'voxelSize':[8_8_8]_'voxelCoordinates':[2914.500732421875_3088.243408203125_4045]}}_'zoomFactor':30.09748283999932}_'perspectiveOrientation':[0.641169548034668_0.20295469462871552_0.08796746283769608_-0.7348302006721497]_'perspectiveZoom':443.63404517712684_'showSlices':false}
+
+https://github.com/google/neuroglancer
+
+https://docker.com/
+
+https://github.com/kaczmarj/neurodocker
+
+https://www.medulina.com/
+
+https://github.com/neuro-data-science
+
+https://github.com/nipy/niwidgets
+
+https://github.com/NifTK/NiftyNet
+
+https://chainer.org/
+
+https://mybinder.org/
