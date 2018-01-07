@@ -21,7 +21,12 @@
 - found a nice [github repo](https://github.com/faroit/awesome-python-scientific-audio), more precisely a collection of scientific audio related python projects
   - it includes a section on [perceptual models](https://github.com/faroit/awesome-python-scientific-audio#perceptial-models---auditory-models)
   - through that I found two very interested and open packages that I plan to use in the project: [cochlea](https://github.com/mrkrd/cochlea) and [DSAM](http://dsam.org.uk)
-
+- besides problems wrt to the ethics proposal (e.g. data sharing) there are difficulties on how to use the project's funding to   pay for project related resources (e.g. MRI costs, etc.)
+  - as I have to wait for people to decide on that and can't do much, I decided alter the project's roadmap/plan so that I'm still able to finish in time </br>
+  --> I'll focus on everything I can already do without an accepted ethics proposal or acquiring data </br>
+  --> this includes organizing the open science initiative and open neuroscience workshop </br>
+  --> furthermore pipeline programming using open data
+  
 ## next week
 - more server setup fun
 - a lot of organizational work
