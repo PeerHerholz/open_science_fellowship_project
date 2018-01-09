@@ -53,7 +53,8 @@ innerhalb derer man das Gefühl hat Teil von etwas Größerem zu sein. Etwas was
 
 ## III. Kommunikation und Vernetzung 
 ### A. Kommunikationsaktivitäten mit Bezug zum Fellow-Programm 
-*Hast du bereits Kommunikationsaktivitäten mit Bezug zum Fellow-Programm/Offene Wissenschaft (Fachbeiträge und/oder Blogposts) initiiert oder planst du solche? Wenn ja, bitte beschreiben.*
+*Hast du bereits Kommunikationsaktivitäten mit Bezug zum Fellow-Programm/Offene Wissenschaft (Fachbeiträge und/oder Blogposts) initiiert oder planst du solche? Wenn ja, bitte beschreiben.* </br>
+
 Im Rahmen der neu gegründeten [„Open Science Initiative University of Marburg“](https://openscienceinitiativeuniversitymarburg.github.io) (siehe IV. A.) befinden sich zwei Projekte in Planung, welche jeweils im Frühling 2018 starten werden. 
 Genauer sind dies eine Interview-Serie und ein Podcast. Innerhalb der Interview-Serie „It’s all open“ ist geplant über diverse lokale, nationale und internationale Projekte offene Wissenschaft in ihrer umfassenden Breite vorzustellen und zu 
 thematisieren, sowie den Blick hierfür zu schärfen. Die Interviews werden mit VertreterInnen der Projekte durch Personen verschiedener Karrierestufen und Fachbereiche geführt. Der Podcast „How did this get published?“ hat pro Folge einen 
