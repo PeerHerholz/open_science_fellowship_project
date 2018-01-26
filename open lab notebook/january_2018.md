@@ -32,15 +32,32 @@ and the [project's wikiversity site](https://de.wikiversity.org/wiki/Wikiversity
 # January 15th - 21th, 2018
 
 ## this week
-
+- starting looking into the pipeline for converting and preprocessing files on the new server system
+  - I've to wait for a response from the institute's and university's IT wrt [docker](https://www.docker.com)
+  - the pipeline will include:
+    - [heudiconv](https://github.com/nipy/heudiconv)
+    - [MRIQC](https://mriqc.readthedocs.io/en/latest/index.html)
+    - [mindboggle](http://www.mindboggle.info)
+    - [fmriprerp](http://fmriprep.readthedocs.io/en/latest/)
+- preparing open science talk at psychology department
+- more work on the tutorial notebook 
 
 ## next week
-
+- preparing lectures
+- preparing open science talk
+- meeting with ["Stabsstelle Forschungsdatenmanagement"](https://www.uni-marburg.de/projekte/forschungsdaten/projekt/stabsstelle)
 
 # January 21th - 28th, 2018
 
 ## this week
-
+- meeting with ["Stabsstelle Forschungsdatenmanagement"](https://www.uni-marburg.de/projekte/forschungsdaten/projekt/stabsstelle)
+  - [talk about electronic lab notebooks](https://www.uni-marburg.de/projekte/forschungsdaten/elns)
+  - some planning wrt new projects
+- work on lectures
+  - open educational resources
+  - docker images for the course "MRI in cognitive neuroscience - neuroinformatics"
+  - jupyter notebooks
+- preparing open science talk
 
 ## next week
 
