@@ -60,6 +60,15 @@ and the [project's wikiversity site](https://de.wikiversity.org/wiki/Wikiversity
 - preparing open science talk
 
 ## next week
-
+- meeting wrt open science at the psychology department
+- work on notebooks
 
 # January 29th - February 4th, 2018
+
+## this week
+- test measurements wrt to quality control
+- meeting wrt open science at the psychology department
+- work on notebooks 
+
+
+## next week
