@@ -66,9 +66,12 @@ and the [project's wikiversity site](https://de.wikiversity.org/wiki/Wikiversity
 # January 29th - February 4th, 2018
 
 ## this week
-- test measurements wrt to quality control
+- test measurements wrt to quality control, as same initial test measurements showed some weird artifacts
+  - the [docker version of MRIQC](http://mriqc.readthedocs.io/en/latest/docker.html) is used to access quality metrics
+  - after that results will be inspected and the [mriqc classifier](http://mriqc.readthedocs.io/en/latest/classifier.html) will be used to predict if the images should be rejected   or not
 - meeting wrt open science at the psychology department
 - work on notebooks 
 
-
 ## next week
+- quality control
+- more notebooks 
