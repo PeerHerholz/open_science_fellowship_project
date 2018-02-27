@@ -21,7 +21,7 @@ My inspiration and motivation to do this was/is based on pure need of certain so
    - [neurodocker](https://hub.docker.com/r/kaczmarj/neurodocker/)
 - [singularity](http://singularity.lbl.gov)
 - [Anaconda distribution version 5.0.1](https://www.anaconda.com), for both [Python 2.7 & 3.6](www.anaconda.com/download/)
-  - not listing all python packages here, because there just too many, but the server got you covered with nearly everything from the scientific & neuroimaging in python world ([scipy](https://www.scipy.org), [scikit-learn](http://scikit-learn.org/stable/index.html), [numpy](http://www.numpy.org), [pandas](https://pandas.pydata.org),[nibabel](http://nipy.org/nibabel/), [nilearn](http://nilearn.github.io/index.html), [nipype](http://nipype.readthedocs.io/en/latest/), [mne](https://martinos.org/mne/stable/index.html), [dipy](http://nipy.org/dipy/), [datalad](http://datalad.org) etc.)
+  - not listing all python packages here, because there just too many, but the server got you covered with nearly everything from the scientific & neuroimaging in python world ([scipy](https://www.scipy.org), [scikit-learn](http://scikit-learn.org/stable/index.html), [numpy](http://www.numpy.org), [pandas](https://pandas.pydata.org), [nibabel](http://nipy.org/nibabel/), [nilearn](http://nilearn.github.io/index.html), [nipype](http://nipype.readthedocs.io/en/latest/), [mne](https://martinos.org/mne/stable/index.html), [dipy](http://nipy.org/dipy/), [datalad](http://datalad.org) etc.)
 - [FSL](https://fsl.fmrib.ox.ac.uk/fsl/fslwiki)
 - [FreeSurfer](https://surfer.nmr.mgh.harvard.edu)
 - [AFNI](https://afni.nimh.nih.gov)
