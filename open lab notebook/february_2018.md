@@ -23,7 +23,7 @@
 
 ## this week
 - talked about data conversion and storage on our new [open neuroscience server system]()
-  - I need to get the university IT's final ok for [git](https://git-scm.com) and [docker](https://en.wikipedia.org/wiki/Docker_(software))/[singularity](https://en.wikipedia.org/wiki/Singularity_(operating_system)
+  - I need to get the university IT's final ok for [git](https://git-scm.com) and [docker](https://en.wikipedia.org/wiki/Docker_(software))/[singularity](https://en.wikipedia.org/wiki/Singularity_(operating_system))
     - to get that I need to ensure that the new server system is completely detached from the old/default one
     - hence, the planned automatic data transfer and conversion / processing over night isn't possible
 - notebooks
@@ -42,13 +42,23 @@
 # February 19th - 25th, 2018
 
 ## this week
-
+- more work on notebooks
+- current plan regarding the server system: get raw dicoms directly at the scanner and subsequently transfer them manually to the new system, starting the conversion and processing workflow directly there
+- workshop preparation (slides, docker image, accommodation, food, rooms, infrastructure, etc.)  
 
 ## next week
-
+- workshop preparation
+- docker and singularity on the new server system (system wide and user specific)
 
 # February 25th - March 4th, 2018
 
 ## this week
+- workshop preparation
+  - everything infrastucture related set and ready to go
+  - more work on slides and docker image
+  - rearranging time slots
+- reading about docker and singularity server set ups
+  - a scheduler like [slurm](https://slurm.schedmd.com) or [kubernetes](https://kubernetes.io)
 
 ## next week
+- workshop
