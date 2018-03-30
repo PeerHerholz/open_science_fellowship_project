@@ -113,9 +113,9 @@ inverse_transform_mni_surface_rh_pt2pp = MapNode(Label2Label(hemisphere = 'rh',
                                                                 iterfield = ['source_label', 'out_file'], 
                                                                 name = 'inverse_transform_mni_surface_rh_pt2pp')
 
-# Initiation of the ANTS normalization workflow
-inverse_ROI_ANTS_flow = Workflow(name='inverse_ROI_ANTS_flow')
-inverse_ROI_ANTS_flow.base_dir = opj(experiment_dir, working_dir)
+# Initiation of the inverse transform ROIs workflow
+inverse_ROI_flow = Workflow(name='inverse_ROI_flow')
+inverse_ROI_flow.base_dir = opj(experiment_dir, working_dir)
 
 
 ##### Specify input and output stream #####
@@ -180,7 +180,7 @@ substitutions = [('_subject_id_', ''),
 datasink.inputs.substitutions = substitutions
 
 # Connect SelectFiles and DataSink to the workflow
-inverse_ROI_ANTS_flow.connect([(infosource, selectfiles, [('subject_id', 'subject_id'),
+inverse_ROI_flow.connect([(infosource, selectfiles, [('subject_id', 'subject_id'),
                                                           ('source_subject', 'source_subject')]),
                   (selectfiles, merge, [('convert2itk', 'in2')]),
                   (selectfiles, merge, [('inverse_transform_composite', 'in1')]),                  
@@ -230,12 +230,12 @@ inverse_ROI_ANTS_flow.connect([(infosource, selectfiles, [('subject_id', 'subjec
 
 #### visualize the pipeline ####
 
-# Create a colored mvpaflow output graph
-inverse_ROI_ANTS_flow.write_graph(graph2use='colored',format='png', simple_form=True)
+# Create a colored output graph
+inverse_ROI_flow.write_graph(graph2use='colored',format='png', simple_form=True)
 
-# Create a detailed mvpaflow output graph
-inverse_ROI_ANTS_flow.write_graph(graph2use='flat',format='png', simple_form=True)
+# Create a detailed output graph
+inverse_ROI_flow.write_graph(graph2use='flat',format='png', simple_form=True)
 
 #### run the workflow using multiple cores ####
-inverse_ROI_ANTS_flow.run('MultiProc', plugin_args={'n_procs':4})
+inverse_ROI_flow.run('MultiProc', plugin_args={'n_procs':4})
 
