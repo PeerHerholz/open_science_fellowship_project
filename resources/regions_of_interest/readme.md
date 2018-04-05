@@ -1,6 +1,6 @@
 ### auditory cortex regions of interest
 
-Here you'll find all auditory cortex regions of interest that are used within ALPACA, organized by the altas they were extracted from.  
+Here you'll find all auditory cortex regions of interest that are used within ALPACA, organized by the altas they were extracted from and including respective licenses.  
 
 | auditory cortex ROIs                        | regions           | atlas | license |
 |:-----------------------------:|:-------------:|:-------------:|:-------------:| 
