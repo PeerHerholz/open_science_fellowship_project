@@ -2,9 +2,9 @@
 
 Here you'll find all auditory cortex regions of interest that are used within ALPACA, organized by the altas they were extracted from.  
 
-| auditory cortex ROIs                        | regions           | atlas |
-|:-----------------------------:|:-------------:|:-------------:| 
-| | | [Mindboggle 101](http://www.mindboggle.info/data.html) </br> reference & credit: [Klein & Tourville 2012](http://dx.doi.org/10.3389/fnins.2012.00171 ) |
+| auditory cortex ROIs                        | regions           | atlas | license |
+|:-----------------------------:|:-------------:|:-------------:|:-------------:| 
+| | | [Mindboggle 101](http://www.mindboggle.info/data.html) </br> reference & credit: [Klein & Tourville 2012](http://dx.doi.org/10.3389/fnins.2012.00171 ) | [CC-By Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/) |
 | | | [Brainnetome Atlas parcellation](http://atlas.brainnetome.org/index.html) </br> reference & credit: [Fan et al. 2016](https://doi.org/10.1093/cercor/bhw157) |
 | | | [Automated Anatomical Labeling](http://www.gin.cnrs.fr/en/tools/aal-aal2/) </br> reference & credit: [Tzourio-Mazoyer et al. 2002](http://dx.doi.org/10.1006/nimg.2001.0978) </br> & </br> [Joliot & Tzourio-Mazoyer 2015](http://dx.doi.org/10.1016/j.neuroimage.2015.07.075) |
 | | | [Harvard-Oxford](http://www.cma.mgh.harvard.edu/fsl_atlas.html) </br> reference & credit: [Desikan et al. 2006](https://doi.org/10.1016/j.neuroimage.2006.01.021) |
