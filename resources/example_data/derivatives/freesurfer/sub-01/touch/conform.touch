@@ -1,0 +1,1 @@
+mri_convert /home/jovyan/work/freesurfer_subjects/sub-01/mri/rawavg.mgz /home/jovyan/work/freesurfer_subjects/sub-01/mri/orig.mgz --conform

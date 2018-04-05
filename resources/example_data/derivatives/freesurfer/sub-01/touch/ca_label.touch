@@ -1,0 +1,1 @@
+mri_cc -aseg aseg.auto_noCCseg.mgz -o aseg.auto.mgz -lta /home/jovyan/work/freesurfer_subjects/sub-01/mri/transforms/cc_up.lta sub-01

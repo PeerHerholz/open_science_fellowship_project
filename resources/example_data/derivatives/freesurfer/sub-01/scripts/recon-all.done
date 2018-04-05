@@ -1,0 +1,13 @@
+------------------------------
+SUBJECT sub-01
+START_TIME Wed Dec 27 16:11:05 UTC 2017
+END_TIME Wed Dec 27 23:06:46 UTC 2017
+RUNTIME_HOURS 6.928
+USER jovyan
+HOST 5758ca5fc998
+PROCESSOR x86_64
+OS Linux
+UNAME Linux 5758ca5fc998 4.4.0-97-generic #120-Ubuntu SMP Tue Sep 19 17:28:18 UTC 2017 x86_64 GNU/Linux
+VERSION $Id: recon-all,v 1.580.2.16 2017/01/18 14:11:24 zkaufman Exp $
+CMDPATH /opt/freesurfer/bin/recon-all
+CMDARGS -all -i /home/jovyan/work/sub-01/anat/sub-01_T1w.nii.gz -s sub-01 -sd /home/jovyan/work/freesurfer_subjects -nuintensitycor-3T
